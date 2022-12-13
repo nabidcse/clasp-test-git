@@ -1,3 +1,3 @@
 function myFunction() {
-  Logger.log('Hello world! from github');
+  Logger.log('format change');
 }
